@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - colour-science
+  - ipywidgets
+  - matplotlib
+  - pandas
