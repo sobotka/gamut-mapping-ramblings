@@ -6,3 +6,8 @@ dependencies:
   - ipywidgets
   - matplotlib
   - pandas
+  # Jupyter
+  - jupyterlab=2
+  - nodejs=11
+  - nbconvert=5.5
+  - widgetsnbextension=3.5
