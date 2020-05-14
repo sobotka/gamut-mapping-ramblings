@@ -3,9 +3,7 @@ channels:
   - defaults
 dependencies:
   - colour-science
-  - ipywidgets
   - matplotlib
-  - pandas
   # Jupyter
   - jupyterlab=2
   - nodejs=11
